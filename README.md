@@ -2,6 +2,6 @@
 An implementation of "A Neural Algorithm of Artistic Style" in Keras
 
 # Preview
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Chicago x Rain Princess](https://github.com/devAmoghS/keras-style-transfer/blob/master/chicago_x_rain_princess.gif)
 
 
