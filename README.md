@@ -1,5 +1,5 @@
 # keras-style-transfer
-An implementation of "A Neural Algorithm of Artistic Style" in Keras
+An implementation of "A Neural Algorithm of Artistic Style" (http://arxiv.org/abs/1508.06576) in Keras
 
 # Preview
 This is a 5-sec gif of **Chicago city** painted in the style of **Rain Princess**
