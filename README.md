@@ -1,6 +1,10 @@
 # keras-style-transfer
 An implementation of "A Neural Algorithm of Artistic Style" (http://arxiv.org/abs/1508.06576) in Keras
 
+The code present in this repository is presented in this blog (INSERT LINK).
+
+The code is written in Keras 2.2.2
+
 # Preview
 This is a 5-sec gif of **Chicago city** painted in the style of **Rain Princess**
 <p align="center">
