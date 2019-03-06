@@ -17,7 +17,7 @@ This is a 5-sec gif of **Chicago city** painted in the style of **Rain Princess*
   <img align="right" src="https://afremov.com/images/product/RAIN-PRINCESS.jpg" width="320" height="270" />
 </p>
 
-===========================================
+============================================
 
 ## Installation notes
 MLwP is built using Python 3.5.  The easiest way to set up a compatible
