@@ -1,4 +1,4 @@
-# keras-style-transfer
+# Keras-Style-Transfer (KeSTra)
 An implementation of "A Neural Algorithm of Artistic Style" (http://arxiv.org/abs/1508.06576) in Keras
 
 The code present in this repository is presented in this blog (INSERT LINK).
