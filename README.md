@@ -16,7 +16,6 @@ This is a 5-sec gif of **Chicago city** painted in the style of **Rain Princess*
   <img align="left" src="https://reiinakano.github.io/arbitrary-image-stylization-tfjs/images/chicago.jpg" width="480" height="270" />
   <img align="right" src="https://afremov.com/images/product/RAIN-PRINCESS.jpg" width="350" height="270" />
 </p>
-<br/>
 
 
 ## Installation notes
