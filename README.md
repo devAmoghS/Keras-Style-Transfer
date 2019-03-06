@@ -20,10 +20,10 @@ This is a 5-sec gif of **Chicago city** painted in the style of **Rain Princess*
 ============================================
 
 ## Installation notes
-MLwP is built using Python 3.5.  The easiest way to set up a compatible
+KeSTra is built using Python 3.5.  The easiest way to set up a compatible
 environment is to use [Conda](https://conda.io/).  This will set up a virtual
 environment with the exact version of Python used for development along with all the
-dependencies needed to run MLwP.
+dependencies needed to run KeSTra.
 
 1.  [Download and install Conda](https://conda.io/docs/download.html).
 2.  Create a Conda environment with Python 3. 
@@ -41,7 +41,7 @@ dependencies needed to run MLwP.
    
 ## Package Plan ##
 
-  environment location: /home/user/anaconda3/envs/mlwp-test
+  environment location: /home/user/anaconda3/envs/kestra-test
 
   added / updated specs: 
     - python=3.5
@@ -74,7 +74,7 @@ Verifying transaction: done
 Executing transaction: done
 #
 # To activate this environment, use:
-# > source activate mlwp-test
+# > source activate kestra-test
 #
 # To deactivate an active environment, use:
 # > source deactivate
@@ -91,12 +91,12 @@ Executing transaction: done
     You will get the following
     
     ```
-    (mlwp-test) amogh@hp15X34:~$ 
+    (kestra-test) amogh@hp15X34:~$ 
     ```
     Enter `conda list` to get the list of available packages
     
     ```
-        (mlwp-test) amogh@hp15X34:~$ conda list
+        (kestra-test) amogh@hp15X34:~$ conda list
     # packages in environment at /home/amogh/anaconda3/envs/mlwp-test:
     #
     # Name                    Version                   Build  Channel
@@ -122,12 +122,11 @@ Executing transaction: done
 4.  Install the required dependencies.
 
     ```
-    (mlwp-test) amogh@hp15X34:~$ conda install --yes --file *path to requirements.txt*
+    (kestra-test) amogh@hp15X34:~$ conda install --yes --file *path to requirements.txt*
     ```
     
 5. In case you are not able to install the packages or getting `PackagesNotFoundError`
-Use the following command ` conda install -c conda-forge *list of packages separated by space*`. For more info, refer issue [#3](https://github.com/devAmoghS/Machine-Learning-with-Python/issues/3) **Unable to install requirements**
-
+Use the following command ` conda install -c conda-forge *list of packages separated by space*`.
 
 ## How good is the code ?
 * It is well tested
