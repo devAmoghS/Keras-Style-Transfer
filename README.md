@@ -34,7 +34,7 @@ dependencies needed to run KeSTra.
     conda create --name *your env name* python=3.5
     ```
    
-   You will get the following, mlwp-test is the env name used in this example
+   You will get the following, kestra-test is the env name used in this example
    
    ```
    Solving environment: done
