@@ -1,7 +1,7 @@
 # Keras-Style-Transfer (KeSTra)
 An implementation of "A Neural Algorithm of Artistic Style" (http://arxiv.org/abs/1508.06576) in Keras
 
-The code present in this repository is presented in this blog (INSERT LINK).
+The code present in this repository is presented in this [blog](https://medium.com/@singhal.amogh1995/utilising-cnns-to-transform-your-model-into-a-budding-artist-1330dc392e25).
 
 The code is written in Keras 2.2.2
 
