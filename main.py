@@ -5,7 +5,7 @@ style_reference_image_path = './images/painting.jpeg'
 
 width, height = load_img(target_image_path).size
 img_height = 400
-img_width = int(width + img_height / height)
+img_width = int(width * img_height / height)
 
 import numpy as np
 from keras.applications import vgg19
